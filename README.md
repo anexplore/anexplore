@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anexplore
-- 👀 I’m interested in infrastructure/spider/llm/ai
+- 👀 I’m interested in Infrastructure/Spider/LLM/AI
 
 <!---
 anexplore/anexplore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
